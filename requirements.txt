@@ -1,4 +1,3 @@
-streamlit
-ccxt
-pandas
-pandas-ta
+git add requirements.txt
+git commit -m "Fix: updated requirements for Streamlit compatibility"
+git push
